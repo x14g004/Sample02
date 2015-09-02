@@ -4,6 +4,9 @@ public class Sample02 {
 		// gitテスト
 		// gitテスト2
 		// gitテスト3
+		//あああああ
+		//あかさたな
+		//いいいいい
 
 
 	}
